@@ -35,3 +35,12 @@ void PrintArray(string[] array){
     Console.WriteLine();
     }
 } 
+
+void PrintOrigArray (string[] array){
+	Console.WriteLine("Начальный массив:");
+	PrintArray(array);
+	string[] shortArray = ShortArray (array);
+	Console.WriteLine($"Итоговый массив");
+	PrintArray(shortArray);
+	Console.WriteLine();
+}
