@@ -27,7 +27,7 @@ string[] ShortArray(string[] array){
 //Вывод масиива на экран
 
 void PrintArray(string[] array){
-	if(array.Length == 0) Console.WriteLine("Array is empty");
+	if(array.Length == 0) Console.WriteLine("Массив пуст");
     else{
 	Array.ForEach(array, (str) => Console.Write($"{str} "));
 	Console.WriteLine();
