@@ -1,0 +1,5 @@
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.AssemblyInfo.cs
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.csproj.CoreCompileInputs.cache
