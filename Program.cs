@@ -21,4 +21,17 @@ string [] ShortArray (string [] array){
 		   count++; 
         }
     }
+    return arrResult;
 }
+
+void PrintArray(string[] array){
+	if(array.Length == 0){
+		Console.WriteLine("Array is empty");
+	}
+	else{
+       for (int i = 0; i < array.Length; i++){
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+    }
+} 
