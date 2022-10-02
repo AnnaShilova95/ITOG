@@ -3,3 +3,13 @@ C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.GeneratedMSBuildEd
 C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.AssemblyInfoInputs.cache
 C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.AssemblyInfo.cs
 C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\bin\Debug\net6.0\ITOG.exe
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\bin\Debug\net6.0\ITOG.deps.json
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\bin\Debug\net6.0\ITOG.runtimeconfig.json
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\bin\Debug\net6.0\ITOG.dll
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\bin\Debug\net6.0\ITOG.pdb
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.dll
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\refint\ITOG.dll
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.pdb
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ITOG.genruntimeconfig.cache
+C:\Users\Аня\Desktop\SeminarsC#\ITOG\obj\Debug\net6.0\ref\ITOG.dll
